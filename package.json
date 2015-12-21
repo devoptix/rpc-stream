@@ -3,12 +3,13 @@
   "version": "2.1.2",
   "description": "very simple rpc. use with any thing that has .pipe()",
   "homepage": "http://github.com/dominictarr/rpc-stream",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/dominictarr/rpc-stream.git"
   },
   "dependencies": {
-    "stream-serializer": "~1.0.0",
+    "stream-serializer": "~1.1.2",
     "through": "~2.3.1"
   },
   "devDependencies": {
